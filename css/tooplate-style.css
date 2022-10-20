@@ -477,7 +477,7 @@ b, strong {
   }
 
   .color-mode {
-    display: none;
+    display: block;
   }
 
   .about-image {
